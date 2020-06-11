@@ -25,7 +25,7 @@ LOGIC:-
  ```C           
 *scanf("%d",&N);
     while(scanf("%d",&a[i]) == 1){
-    i++; */scan the array*/
+    i++; /*scan the array*/
     
    ***OVERFLOW CHECK :
             
