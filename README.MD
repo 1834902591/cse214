@@ -1,8 +1,4 @@
  <button class="button-save large">_**LAB-1**_</button>
-<div class="#24292e">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
 
 -ARRAY DECLARE
 
@@ -13,8 +9,8 @@
 -ARRAY INPUT/OUTPUT
 
 ---
-
-_**LAB-2:-**_
+ 
+ <button class="button-save large">_**LAB-2**_</button>
 
 -ARRAY INSERT
 
@@ -26,7 +22,8 @@ _**LAB-2:-**_
 
 ---
 
-_**LAB-3:-**_
+ <button class="button-save large">_**LAB-3**_</button>
+
 
 -ARRAY MAXIMUM
 
@@ -42,7 +39,8 @@ _**LAB-3:-**_
 
 ---
 
-_**LAB-4:-**_
+ <button class="button-save large">_**LAB-4**_</button>
+
 
 -ARRAY COPY
 
@@ -58,7 +56,8 @@ _**LAB-4:-**_
 
 ---
 
-_**LAB-5:-**_
+ <button class="button-save large">_**LAB-5**_</button>
+
 
  *ARRAY OPERATION USING POINTER
 
