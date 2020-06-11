@@ -20,7 +20,9 @@ Then write the following program.Check Overflow on each program[NB:Don’t use f
 
 
 ***1.User Scan :-
-            
+
+LOGIC:-
+ ```C           
 *scanf("%d",&N);
     while(scanf("%d",&a[i]) == 1){
     i++; */scan the array*/
@@ -31,15 +33,19 @@ Then write the following program.Check Overflow on each program[NB:Don’t use f
         printf("Array Overflow\n");
         break;
         }
-     
+ ```    
  ***2.End of file scan:-
-         
+ 
+ LOGIC:-
+ ```C        
 *while(scanf("%d",&a[i])!= EOF){
         i++;
     }   
-    
+```    
 ***3.User INPUT ZERO (0) :-
-      
+
+LOGIC:-
+```C      
   *logic:-
        for(i =0; i < 100; i++)
     {
@@ -49,33 +55,37 @@ Then write the following program.Check Overflow on each program[NB:Don’t use f
             break;
         }
     }
+```   
+***4.Print Array element in newline :-
    
-   ***4.Print Array element in newline :-
-   
-   *logic:
+ LOGIC:-
+  ```C 
                 for(i=0;i<size;i++){
         printf("%d\n",a[i]);
     }
-    
+```    
 ***5. Print Array element separated by space:
 
-*logic:
+LOGIC:-
+```C
            for(i=0;i<size;i++){
         printf("%d  ",a[i]);
     }
-    
+```    
 ***6.Print Array element separated by coma:
 
-*logic:
+LOGIC:-
+```C
               for(i=0;i<size;i++){
         printf("%d,  ",a[i]);
     }
-    
+```    
 ***7.Reverse the array:-
 
-*logic:
+LOGIC:-
+```C
          for(i = size-1; i>=0; i--)
     {
         printf("%d  ", a[i]);
     }
-    
+```    
