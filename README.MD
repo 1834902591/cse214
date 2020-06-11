@@ -1,6 +1,6 @@
  <button class="button-save large">_**LAB-1**_</button>
 
--ARRAY DECLARE
+ -ARRAY DECLARE
 
 -ARRAY INITIALIZE
 
