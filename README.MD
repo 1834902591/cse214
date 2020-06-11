@@ -1,4 +1,5 @@
- ###_**LAB1:-**_
+ _**LAB-1:-**_<button class="button-save large">LAB-1</button>
+
 
 -ARRAY DECLARE
 
@@ -10,7 +11,7 @@
 
 ---
 
-_**LAB2:-**_
+_**LAB-2:-**_
 
 -ARRAY INSERT
 
@@ -22,7 +23,7 @@ _**LAB2:-**_
 
 ---
 
-_**LAB3:-**_
+_**LAB-3:-**_
 
 -ARRAY MAXIMUM
 
@@ -38,7 +39,7 @@ _**LAB3:-**_
 
 ---
 
-_**LAB4:-**_
+_**LAB-4:-**_
 
 -ARRAY COPY
 
@@ -54,7 +55,7 @@ _**LAB4:-**_
 
 ---
 
-_**LAB5:-**_
+_**LAB-5:-**_
 
  *ARRAY OPERATION USING POINTER
 
