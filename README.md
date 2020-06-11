@@ -1,4 +1,4 @@
-***#LAB1
+***LAB1
 
 -ARRAY DECLARE
 
@@ -8,7 +8,7 @@
 
 -ARRAY INPUT/OUTPUT
 
-***#LAB2
+***LAB2
 
 -ARRAY INSERT
 
@@ -18,7 +18,7 @@
 
 -ARRAY DELETE
 
-****==#LAB3==
+***==LAB3==
 
 -ARRAY MAXIMUM
 
@@ -32,7 +32,7 @@
 
 -FIBONACCI NUMBER
 
-****==#LAB4==
+***==LAB4==
 
 -ARRAY COPY
 
@@ -46,7 +46,7 @@
 
 -CYLICALLY PERMUTE
 
-****==#LAB5==
+****==LAB5==
 
 >==ARRRAY OPERATION USING POINTER==
 
