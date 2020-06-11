@@ -1,5 +1,5 @@
  <button class="button-save large">_**LAB-1**_</button>
-<div class="text-purple">
+<div class="#24292e">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
