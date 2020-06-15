@@ -23,13 +23,13 @@ Then write the following program.Check Overflow on each program[NB:Don’t use f
 
 LOGIC:-
  ```C           
-*scanf("%d",&N);
+scanf("%d",&N);
     while(scanf("%d",&a[i]) == 1){
     i++; /*scan the array*/
     
    ***OVERFLOW CHECK :
             
-  *if(i > N){
+  if(i > N){
         printf("Array Overflow\n");
         break;
         }
@@ -38,7 +38,7 @@ LOGIC:-
  
  LOGIC:-
  ```C        
-*while(scanf("%d",&a[i])!= EOF){
+while(scanf("%d",&a[i])!= EOF){
         i++;
     }   
 ```    
