@@ -16,12 +16,16 @@ int main()
     scanf("%d",&N);
 
     for(i=0; i<N; i++){
-        scanf("%d",(p+i));}
+        
+        scanf("%d",(p+i));
+    }
 
     printf("\n");
 
     for(i=0; i<N; i++){
-        printf("%d ",*(p+i));}
+        
+        printf("%d ",*(p+i));
+    }
 
     return 0;
 }
