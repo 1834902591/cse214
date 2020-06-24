@@ -67,39 +67,40 @@
 
 ---
 
-****LINKED LIST BASIC OPERATIONS:-
+****LINKED LIST BASIC OPERATIONS:-****
 
-  -CREATE
+-CREATE
   
-  -DECLARE
+-DECLARE
   
-  -INITIALIZE
+-INITIALIZE
   
-  -ACCESS
+-ACCESS
   
-  -TRAVERSE
+-TRAVERSE
   
-  -OUTPUT
+-OUTPUT
 
 ---
  <button class="button-save large">_***LAB-7***_</button>
 
-****LINKED LIST BASIC OPERATIONS:-
+****LINKED LIST BASIC OPERATIONS:-****
  
-  -CREATE
+-CREATE
   
-  -EMPTY
+-EMPTY
   
-  -SIZE
+-SIZE
   
-  -FRONT
+-FRONT
   
- -BACK
-  -SEARCH
+-BACK
+ 
+-SEARCH
   
-  -REVERSE
+-REVERSE
    
-  -MERGE
+-MERGE
 
 
 
