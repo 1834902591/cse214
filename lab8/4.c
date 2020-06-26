@@ -77,7 +77,7 @@ node* delete_at(node *temp,int key){
 if(temp){
 node *head=temp, *prev, *next;
 int i=1;
-if(key<1){
+if(key>4 || key<1){
         printf("Invalid Index\n");
         return head;
         }
