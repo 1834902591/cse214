@@ -1,6 +1,7 @@
 ***Implement an "insert front" function to insert an element at the beginning (front) linked list.***
 
 ```C
+
 node* insert_front(node *temp, int key){
 node *new_head;
 new_head=(node*)malloc(sizeof(node));
