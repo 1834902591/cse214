@@ -109,7 +109,8 @@ return 0;
     ```
 ***Copy a linked list into another linked list.
     Display both list before and after copy.(Don't use recursion)***
-    ```C
+   
+```C
     node* copy_list(node *list1){
  node *head2, *temp;
     temp = (node*)malloc(sizeof(node)) ;
@@ -126,7 +127,7 @@ return 0;
     }
     return head2;
     }
-    ```
+  ```
 
 ***Copy a linked list into another list with a recursion function .
   Display both list before and after copy.*/
