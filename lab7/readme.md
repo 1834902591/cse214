@@ -89,9 +89,11 @@ if (temp!=NULL){
 return 0;
 }
 ```
+
 ***Define a function to reverse the linked list .(Don't use recursion)Display both list before
     after reversing.***
-    ```C
+    
+```C
    node* reverse_list(node* list1){
     node *first, *current, *temp;
     first = list1;
@@ -106,7 +108,7 @@ return 0;
     }
     return first;
     }
-    ```
+ ```
 ***Copy a linked list into another linked list.
     Display both list before and after copy.(Don't use recursion)***
    
