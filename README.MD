@@ -134,8 +134,28 @@
 - INSERT AFTER
 
 ---
+ <button class="button-save large">_**LAB-10**_</button>
 
+***Double Way Non-Circular Linked List:-***
 
+- Menu()
 
+- Display()
 
+- Empty()
 
+- Size()
+
+- Front()
+
+- Back()
+
+- Push Front ()
+
+- Push Back()
+
+- Pop Front ()
+
+- Pop Back()
+
+- Clear()
